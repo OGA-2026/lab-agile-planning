@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Sprint/SIT activities management methodology
+about: Template with instructions to create user stories
 title: ''
 labels: ''
 assignees: ''
